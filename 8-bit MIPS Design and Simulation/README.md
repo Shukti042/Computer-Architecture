@@ -1,0 +1,3 @@
+# 8-bit MIPS Design and Simulation
+
+Full description about the tasks are in [Problem Description](https://github.com/Shukti042/Computer-Architecture/blob/master/8-bit%20MIPS%20Design%20and%20Simulation/MIPS%20Spec.pdf) and the solutions are in [Solution](https://github.com/Shukti042/Operating-System/tree/master/Nachos%201/Solutions). Details report on the tasks is in [Report](https://github.com/Shukti042/Operating-System/blob/master/Nachos%201/Report.pdf). 
